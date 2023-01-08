@@ -1,0 +1,17 @@
+@import "_header";
+body{
+    background-color: aqua;
+    div{
+        background-color: aliceblue;
+    }
+}
+.header {
+
+    &__q {
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+    }
+
+}
+

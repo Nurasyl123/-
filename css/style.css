@@ -1,0 +1,16 @@
+header {
+  background-color: black;
+}
+
+body {
+  background-color: aqua;
+}
+body div {
+  background-color: aliceblue;
+}
+
+.header__q {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}/*# sourceMappingURL=style.css.map */
